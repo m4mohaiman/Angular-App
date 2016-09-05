@@ -1,0 +1,39 @@
+*{margin: 0; padding: 0;}
+
+@import 'https://fonts.googleapis.com/css?family=Exo';
+
+body{
+    font-family: 'Exo', sans-serif;
+}
+
+
+.myTable{
+    
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+.myAlert{
+    margin:0;
+    margin-top: 50px;
+}
+
+.table th{
+    text-align: center;
+} 
+
+
+.alert h4{
+    margin: 0;
+}
+
+
+
+span{
+    color: red;
+}
+
+.footer{
+    padding-top: 235px;
+}
